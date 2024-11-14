@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "avsox.click"
+      ],
+      "domain_keyword": "javdb.com"
+    }
+  ]
+}
