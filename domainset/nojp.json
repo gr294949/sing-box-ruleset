@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "avsox.click",
+        "Javdb.com"
+      ],
+      "domain_keyword": "paycalling.com"
+    }
+  ]
+}
