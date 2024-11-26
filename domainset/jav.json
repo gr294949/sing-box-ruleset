@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "avsox.click"
+        "avsox.click",
+        "airav.io"
       ],
       "domain_keyword": "javdb.com"
     }
